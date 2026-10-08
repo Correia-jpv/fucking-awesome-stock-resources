@@ -272,6 +272,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 * 🌎 [All The Free Stock](allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * 🌎 [Avopix](avopix.com) - More than 15 000 absolutely free stock photos and vectors.
+* 🌎 [Free for Creators](skyzhao1223.github.io/free-for-creators/) - License-verified directory of 158 free assets for creators (music, SFX, footage, photos, fonts, icons, LUTs, mockups, 3D), each tagged with license, attribution and monetization rules.
 * 🌎 [Libre Stock](librestock.com/) - Search engine for stock photo websites.
 * 🌎 [Stock Up](www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * 🌎 [The Stocks](thestocks.im/) - The best royalty free stock photos in one place.
